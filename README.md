@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Repro repo (trying saying that 10 times fast) for Decorator Ordering Issue.
 
 ## Installation
 
